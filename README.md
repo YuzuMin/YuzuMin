@@ -4,7 +4,7 @@ I'm YuzuMin, a self taught programmer, and UI/UX designer. The fields I speciali
 
 [<img src="Assets/Google-Play-Store.png"
 alt="Google Play"
-height="100">](https://play.google.com/store/apps/dev?id=8294948611477283731)  
+height="75">](https://play.google.com/store/apps/dev?id=8294948611477283731)  
 
 [<img src="Assets/gura.png"
 alt="Gura Noises"
