@@ -34,9 +34,6 @@ height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.calliop
 alt="Nene Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenoises)
 
-
-
-
 <!--
 **YuzuMin/YuzuMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
