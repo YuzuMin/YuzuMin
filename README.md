@@ -2,9 +2,10 @@
 
 I'm YuzuMin, a self taught programmer, and UI/UX designer. The fields I specialize in are Android App, Web, and Software Development. I have adequate design skills to make the right decisions when designing the UI for my applications. You might be curious as to why an engineer would learn design aswell. It's because I like being a "lone wolf" and doing everything on my own. But I'm definitely open to collaborations afterall I'm an ENTJ personality type. Feel free to slide into my DMs, I love talking to people. 
 
-## Quando il gioco è finito, il re e il pedone vanno nella stessa scatola.
+[<img src="Assets/Google-Play-Store.png"
+alt="Google Play"
+height="100">](https://play.google.com/store/apps/dev?id=8294948611477283731)  
 
-## My Google Play Apps
 [<img src="Assets/gura.png"
 alt="Gura Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.guranoises)
@@ -40,6 +41,7 @@ height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenoi
 **YuzuMin/YuzuMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+## Quando il gioco è finito, il re e il pedone vanno nella stessa scatola.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
