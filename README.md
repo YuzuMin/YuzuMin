@@ -36,6 +36,10 @@ height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenoi
 [<img src="Assets/amelia.png"
 alt="Amelia Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.amelianoises)
+[<img src="Assets/coco.png"
+alt="Coco Noises"
+height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.coconoises)
+
 <!--
 **YuzuMin/YuzuMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
