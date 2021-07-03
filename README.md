@@ -30,7 +30,7 @@ height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.mikonoi
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/calliope.png"
 alt="Calliope Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.calliopenoises)
-[<img src="Assets/nene.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/nene.png"
 alt="Nene Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/amelia.png"
