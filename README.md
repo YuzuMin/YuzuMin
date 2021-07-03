@@ -6,37 +6,37 @@ I'm YuzuMin, a self taught programmer, and UI/UX designer. The fields I speciali
 alt="Google Play"
 height="75">](https://play.google.com/store/apps/dev?id=8294948611477283731)  
 
-[<img src="Assets/gura.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/gura.png"
 alt="Gura Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.guranoises)
-[<img src="Assets/kiara.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/kiara.png"
 alt="Kiara Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.kiaranoise)
-[<img src="Assets/polka.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/polka.png"
 alt="Polka Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.polkanoises)
-[<img src="Assets/uto.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/uto.png"
 alt="Uto Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.utonoises)
-[<img src="Assets/pekora.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/pekora.png"
 alt="Pekora Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.pekoranoises)
-[<img src="Assets/ayame.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/ayame.png"
 alt="Ayame Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.ayamenoises)
-[<img src="Assets/miko.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/miko.png"
 alt="Miko Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.mikonoises)
-[<img src="Assets/calliope.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/calliope.png"
 alt="Calliope Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.calliopenoises)
 [<img src="Assets/nene.png"
 alt="Nene Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenoises)
-[<img src="Assets/amelia.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/amelia.png"
 alt="Amelia Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.amelianoises)
-[<img src="Assets/coco.png"
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/coco.png"
 alt="Coco Noises"
 height="128">](https://play.google.com/store/apps/details?id=com.yuzumin.coconoises)
 
