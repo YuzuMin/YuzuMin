@@ -8,37 +8,37 @@ height="75">](https://play.google.com/store/apps/dev?id=8294948611477283731)
 
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/gura.png"
 alt="Gura Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.guranoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.guranoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/kiara.png"
 alt="Kiara Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.kiaranoise)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.kiaranoise)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/polka.png"
 alt="Polka Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.polkanoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.polkanoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/uto.png"
 alt="Uto Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.utonoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.utonoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/pekora.png"
 alt="Pekora Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.pekoranoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.pekoranoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/ayame.png"
 alt="Ayame Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.ayamenoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.ayamenoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/miko.png"
 alt="Miko Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.mikonoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.mikonoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/calliope.png"
 alt="Calliope Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.calliopenoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.calliopenoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/nene.png"
 alt="Nene Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.nenenoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/amelia.png"
 alt="Amelia Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.amelianoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.amelianoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/coco.png"
 alt="Coco Noises"
-height="130">](https://play.google.com/store/apps/details?id=com.yuzumin.coconoises)
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.coconoises)
 
 [![YuzuMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzumin&show_icons=true&bg_color=-20,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzumin&show_icons=true&bg_color=-20,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
