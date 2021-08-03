@@ -40,9 +40,7 @@ height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.amelian
 alt="Coco Noises"
 height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.coconoises)
 
-[![YuzuMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzumin&show_icons=true&bg_color=-10.8,ffd400,6EAB01&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzumin&show_icons=true&bg_color=-10.8,C8C700,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![YuzuMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzumin&show_icons=true&bg_color=-45,ffffff,000000&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzumin&show_icons=true&bg_color=-45,ffffff,000000&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![YuzuMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzumin&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzumin&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **YuzuMin/YuzuMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
