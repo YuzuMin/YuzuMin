@@ -39,6 +39,9 @@ height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.amelian
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/coco.png"
 alt="Coco Noises"
 height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.coconoises)
+[<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/yagoo.png"
+alt="Yagoo Noises"
+height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.yagoonoises)
 
 [![YuzuMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuzumin&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&line_height=20)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuzumin&show_icons=true&bg_color=-18.8,ffd400,009800&title_color=1f1f1f&icon_color=1f1f1f&border_color=1f1f1f&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
