@@ -41,7 +41,7 @@ alt="Coco Noises"
 height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.coconoises)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/yagoo.png"
 alt="Yagoo Noises"
-height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.yagoonoises)
+height="135">](https://github.com/YuzuMin/Hololive-CEO-Yagoo-Noises/blob/main/README.md)
 [<img src="https://raw.githubusercontent.com/YuzuMin/Vtuber-Noises/main/Assets/rushia.png"
 alt="Rushia Noises"
 height="135">](https://play.google.com/store/apps/details?id=com.yuzumin.rushianoises)
